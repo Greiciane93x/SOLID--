@@ -6,6 +6,6 @@ o que as tornam difíceis de manter. <br/>
 Classes não encapsuladas permitem violação de regras de negócio, além de aumentarem o acoplamento. <br/> 
 * Acoplamento: Ação de acoplar. Agrupamento aos pares. Classes acopladas causam fragilidade no código da aplicação, <br/>  o que dificulta sua manutenção. <br/> 
 
-#S[Single Responsability Principle]<br/> 
+# S[Single Responsability Principle]<br/> 
 "Uma classe deveria ter apenas um único motivo para mudar" - Robert(Uncle Bob) Martin. <br/> 
 * Foco em manter alta coesão <br/> 
