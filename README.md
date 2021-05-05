@@ -10,3 +10,5 @@ Classes acopladas causam fragilidade no código da aplicação, o que dificulta 
 # S - [Single Responsability Principle]<br/> 
 "Uma classe deveria ter apenas um único motivo para mudar" - Robert(Uncle Bob) Martin. <br/> 
 * Foco em manter alta coesão <br/> 
+# O - [Open Closed Principle]<br/> 
+"Entidades de software(classes, módulos, funções, etc.) devem estar abertas para extensão, porém fechadas para modificação." - Bertrand Meyer 
