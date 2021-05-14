@@ -12,3 +12,6 @@ Classes acopladas causam fragilidade no código da aplicação, o que dificulta 
 * Foco em manter alta coesão <br/> 
 # O - [Open Closed Principle]<br/> 
 "Entidades de software(classes, módulos, funções, etc.) devem estar abertas para extensão, porém fechadas para modificação." - Bertrand Meyer 
+<br/>
+# L - [Liskov Substitution Principle] <br/>
+"Se q(x) é uma propriedade demonstrável dos objetos x do tipo T, então Q(y) deve ser verdadeiro para objetos y de tipo S, onde S é subtipo de T. "<br/> 
