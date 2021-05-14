@@ -15,3 +15,4 @@ Classes acopladas causam fragilidade no código da aplicação, o que dificulta 
 <br/>
 # L - [Liskov Substitution Principle] <br/>
 "Se q(x) é uma propriedade demonstrável dos objetos x do tipo T, então Q(y) deve ser verdadeiro para objetos y de tipo S, onde S é subtipo de T. "<br/> 
+# D - [Dependency Inversion Principle] <br/>
