@@ -16,4 +16,8 @@ Classes acopladas causam fragilidade no código da aplicação, o que dificulta 
 # L - [Liskov Substitution Principle] <br/>
 "Se q(x) é uma propriedade demonstrável dos objetos x do tipo T, então Q(y) deve ser verdadeiro para objetos y de tipo S, onde S é subtipo de T. "<br/> 
 # I - <br/>
+Princípio da Segregação da Interface<br/> 
+"Muitas interfaces específicas são melhores do que uma interface única." <br/> 
 # D - [Dependency Inversion Principle] <br/>
+"Dependa de uma abstração e não de uma implementação. " <br/> 
+
