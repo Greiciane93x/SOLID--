@@ -20,3 +20,4 @@ Classes acopladas causam fragilidade no código da aplicação, o que dificulta 
 # D - [Dependency Inversion Principle] <br/>
 "Dependa de uma abstração e não de uma implementação. " <br/> 
 
+https://www.zup.com.br/blog/design-principle-solid
